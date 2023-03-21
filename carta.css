@@ -112,3 +112,11 @@ span {
 
 }
 
+@media screen and (min-width: 500px) {
+    .caixa {
+      --larguraDoItem: 611px
+;
+      --alturaDoItem:474px; 
+  
+    }
+  }
